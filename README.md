@@ -55,6 +55,7 @@ Client: ICICI Bank
 ---
 
 ## 📂 **Projects**
+- [**Cricket Analytics**](https://github.com/Mayurnagare1999/Cricket-analytics-workshop): Analysis the match resullt using Ml models
 - [**Crypto Signals with LSTM**](https://github.com/IncognitoOmi/Crypto_Signals_with_LSTM): Bitcoin price prediction using LSTM Neural Networks.  
 - [**Web Scraping TimesJobs**](https://github.com/IncognitoOmi/Web_Scraping_TimesJobs): Automated job listing extraction using **BeautifulSoup** and **Selenium**.  
 - [**University Shortlisting System**](https://github.com/IncognitoOmi/University_Shortlisting_and_Prediction_System/tree/main): Admission likelihood prediction using **Linear Regression**.  
