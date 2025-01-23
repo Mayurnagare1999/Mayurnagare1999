@@ -86,7 +86,7 @@ Client: ICICI Bank
 
 ## 📫 **Connect with Me**
 - 📧 Email: [mayurnagare1999@gmail.com](mailto:mayurnagare1999@gmail.com)  
-- 💼 LinkedIn: [Mayur Nagare](www.linkedin.com/in/mayur-nagare-82352b1a5/)  
+- 💼 LinkedIn: [Mayur Nagare](linkedin.com/in/mayur-nagare-82352b1a5)  
 - 🐙 GitHub: [Mayurnagare1999](https://github.com/Mayurnagare1999/Mayurnagare1999/)
 
 --
