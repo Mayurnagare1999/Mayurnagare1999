@@ -2,7 +2,7 @@
 
 🚀 **Data Scientist | Machine Learning Enthusiast**
 
-With **2.6+ years of experience in data science**, I specialize in transforming raw data into actionable insights and deploying end-to-end solutions that drive real-world impact. I'm also passionate about trading in financial markets with expertise in intraday strategies and options trading.
+With **3 years of experience in data science**, I specialize in transforming raw data into actionable insights and deploying end-to-end solutions that drive real-world impact. I'm also passionate about trading in financial markets with expertise in intraday strategies and options trading.
 
 ---
 
